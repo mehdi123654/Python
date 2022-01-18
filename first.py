@@ -1,2 +1,2 @@
-print("hello world")
-print("ayo")
+x="haha"
+print(x[0])        
