@@ -1,2 +1,5 @@
-x="haha"
-print(x[0])        
+#x="haha"
+#print(x[0])
+
+
+
